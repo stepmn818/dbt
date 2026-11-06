@@ -26,3 +26,5 @@ daily_weather_agg AS (
 
 SELECT *
 FROM daily_weather_agg
+
+
