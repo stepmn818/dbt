@@ -1,0 +1,17 @@
+*.swp
+~*
+*~
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_notebooks/.ipynb_checkpoints
+
+# Default .gitignore content added by dbt Cloud# you shouldn't commit these into source control
+# these are the default directory names, adjust/add to fit your needs
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
+dbt_internal_packages/
